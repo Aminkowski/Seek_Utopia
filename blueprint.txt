@@ -1,0 +1,8 @@
+aight so... want to eventually implement some ml (the evolution one, but also more simple models to begin with)
+what even are the parameters? let's say land/labor/capital, reproduction/survival (memetic),... that's all I can think of for now
+also feel like this needs to involve graphs. each node is a person, each edge is connection / influence. so probably a directed graph.
+maybe some version of "who is responsible for what"
+
+some sense of winning, rounds, reward, punishment
+clear distinguishing of hyperparameters and model assumptions
+a parameter for 'loudness', deception, dare i say love
